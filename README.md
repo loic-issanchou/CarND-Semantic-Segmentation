@@ -1,6 +1,14 @@
+[image1]: ./output_images/um_000000.png "Undistorted"
+[image2]: ./output_images/um_000004.png "Undistorted"
+[image3]: ./output_images/um_000008.png "Undistorted"
+[image4]: ./output_images/um_000012.png "Undistorted"
+
 # Semantic Segmentation
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+
+### Some image results
+[image1] | [image2] | [image3] | [image4]
 
 ### Setup
 ##### GPU
