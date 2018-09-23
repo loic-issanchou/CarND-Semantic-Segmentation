@@ -3,10 +3,14 @@
 [image2]: ./1533100080.8711152/um_000016.png
 [image3]: ./1533100080.8711152/um_000008.png
 [image4]: ./1533100080.8711152/um_000012.png
+[image5]: ./architecture.png
 
 # Semantic Segmentation
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+
+### Skip layer architecture
+![alt text][image5]
 
 ### Some image results
 ![alt text][image1]
