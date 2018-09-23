@@ -8,7 +8,7 @@
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
 ### Some image results
-[image1] | [image2] | [image3] | [image4]
+![alt text][image1] | ![alt text][image2] | ![alt text][image3] | ![alt text][image4]
 
 ### Setup
 ##### GPU
