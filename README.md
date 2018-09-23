@@ -1,8 +1,8 @@
 [//]: # (Image References)
-[image1]: ./output_images/um_000000.png 
-[image2]: ./output_images/um_000004.png
-[image3]: ./output_images/um_000008.png
-[image4]: ./output_images/um_000012.png
+[image1]: ./1533100080.8711152/um_000000.png 
+[image2]: ./1533100080.8711152/um_000004.png
+[image3]: ./1533100080.8711152/um_000008.png
+[image4]: ./1533100080.8711152/um_000012.png
 
 # Semantic Segmentation
 ### Introduction
