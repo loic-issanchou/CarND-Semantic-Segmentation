@@ -1,8 +1,8 @@
 [//]: # (Image References)
-[image1]: ./output_images/um_000000.png "Undistorted"
-[image2]: ./output_images/um_000004.png "Undistorted"
-[image3]: ./output_images/um_000008.png "Undistorted"
-[image4]: ./output_images/um_000012.png "Undistorted"
+[image1]: ./output_images/um_000000.png 
+[image2]: ./output_images/um_000004.png
+[image3]: ./output_images/um_000008.png
+[image4]: ./output_images/um_000012.png
 
 # Semantic Segmentation
 ### Introduction
@@ -10,7 +10,9 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 
 ### Some image results
 ![alt text][image1]
-![alt text][image2] | ![alt text][image3] | ![alt text][image4]
+![alt text][image2]
+![alt text][image3] 
+![alt text][image4]
 
 ### Setup
 ##### GPU
